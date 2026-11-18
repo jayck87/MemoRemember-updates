@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 13,
-  "versionName": "0.13",
+  "versionCode": 14,
+  "versionName": "0.14",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.13.apk",
-  "bytes": 1098542,
-  "sha256": "70a89f2cb9a52eb07ab2a986afc5e8c292837b15db401f0f3649ce22c78c81cd",
-  "notes": "사진이 배정된 방문은 바로 제거되지 않도록 보호했습니다. 먼저 사진을 다른 방문지나 여행 전체로 재분류해 주세요. 기존 여행과 사진 정보는 유지됩니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.14.apk",
+  "bytes": 1102638,
+  "sha256": "b6d4f33ee74abfde1579e02ed63583860bdd9578ed39732b9c0711642602b191",
+  "notes": "방문 수정 시 직접 확인한 사진 배정을 유지합니다. 자동 분류가 달라지는 사진이 있으면 저장 전에 확인합니다. 기존 여행·사진 원본은 유지됩니다."
 }
