@@ -1,0 +1,12 @@
+{
+  "format": "travelgalpi-update",
+  "schemaVersion": 1,
+  "packageName": "kr.travelgalpi.probe",
+  "versionCode": 12,
+  "versionName": "0.12",
+  "minSdk": 29,
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.12.apk",
+  "bytes": 1098542,
+  "sha256": "069cb1eca9bf34975716bc0a2400a20d7640028621b868304c76af36618f2256",
+  "notes": "앱 실행 시 업데이트 확인과 안전한 APK 설치 연결"
+}
