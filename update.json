@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 15,
-  "versionName": "0.15",
+  "versionCode": 16,
+  "versionName": "0.16",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.15.apk",
-  "bytes": 1106734,
-  "sha256": "51e1ad1d700b91cb90ad4c07b0b10061ca9a39ed5a3bdcbd29da0933c4f5eb04",
-  "notes": "화면을 단순하게 정리했습니다. 여행에서는 방문 기록을, 사진 정리에서는 사진 추가와 분류를 확인하세요. 백업과 업데이트는 설정으로 이동했습니다. 기존 여행과 사진 배정은 유지됩니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.16.apk",
+  "bytes": 36527638,
+  "sha256": "8d51a1db2a2c51cad58b7ac167c21c6386538de746bfc8ffebb6e1aa4a574c81",
+  "notes": "Google 기본 지도 중심 메인을 연결했습니다. 핀을 누르면 여행 카드가 나오고, 카드에서 기록을 열 수 있습니다. 도착·출발 시간을 장소 기준으로 명확하게 표시했습니다. 기존 여행과 사진 배정은 유지됩니다."
 }
