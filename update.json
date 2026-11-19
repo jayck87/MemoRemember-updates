@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 17,
-  "versionName": "0.17",
+  "versionCode": 18,
+  "versionName": "0.18",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.17.apk",
-  "bytes": 36528028,
-  "sha256": "38ec160d4dd37b01aba67a047d50fd5f2cff8a1e6313d41e24fb9459f011f6b4",
-  "notes": "지도를 더 심플하게 정리했습니다. 상호·관광지·교통 아이콘을 줄이고, 주요 도로·지명·여행 핀이 보이도록 옅은 색상을 적용했습니다. 기존 여행과 사진 배정은 유지됩니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.18.apk",
+  "bytes": 36560880,
+  "sha256": "a97134c115fb91910ac3e1ae06989c2496265a546a262443c950574b451108de",
+  "notes": "Memo는 여행 지도, Member는 아이 작품 보관함입니다. 여행 기록은 빨간 핀, 계획은 초록 핀으로 표시합니다. 작품은 촬영하거나 사진에서 골라 연도별로 보관할 수 있습니다."
 }
