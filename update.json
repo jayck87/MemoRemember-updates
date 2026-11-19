@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 18,
-  "versionName": "0.18",
+  "versionCode": 19,
+  "versionName": "0.19",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.18.apk",
-  "bytes": 36560880,
-  "sha256": "a97134c115fb91910ac3e1ae06989c2496265a546a262443c950574b451108de",
-  "notes": "Memo는 여행 지도, Member는 아이 작품 보관함입니다. 여행 기록은 빨간 핀, 계획은 초록 핀으로 표시합니다. 작품은 촬영하거나 사진에서 골라 연도별로 보관할 수 있습니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.19.apk",
+  "bytes": 36577308,
+  "sha256": "bc62ee27c7ce9dd243be4994cf5fd9fde3f1c19538ef87e01358022546b66bca",
+  "notes": "MemoReMember의 여행 추가를 + 하나로 모았습니다. 날짜를 두 번 눌러 기간을 정하고, 방문한 곳은 현재 위치를 확인해 날짜와 후기로 남길 수 있습니다. 작품 사진의 연도는 휠로 바꿀 수 있습니다."
 }
