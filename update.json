@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 20,
-  "versionName": "0.20",
+  "versionCode": 21,
+  "versionName": "0.21",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.20.apk",
-  "bytes": 36594608,
-  "sha256": "ff15205d0a649e80ecbdf634e1189c2ccc36f7e396036181fc4fd5551c1d0479",
-  "notes": "두 R이 만나는 새 표지, 남한·제주 지도와 확대 시 여행명, 위아래로 조절하는 목록, 날짜별 여행 달력, 여행·작품 사진 다운로드와 외부 공유, 네이버 장소·리뷰와 길찾기를 추가했습니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.21.apk",
+  "bytes": 38245342,
+  "sha256": "fce761a9d254ff10e10dc31cb60da22a45b88b889ae5a4a1b6204d80ec498557",
+  "notes": "네이버 지도, 방문지 공유·등록과 구간별 길찾기, 이동 가능한 여행 목록과 확대 단계 바, 작품 좌우 넘기기와 블러 뷰어, 4.2초 표지 애니메이션을 추가했습니다."
 }
