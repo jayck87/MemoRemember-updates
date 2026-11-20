@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 19,
-  "versionName": "0.19",
+  "versionCode": 20,
+  "versionName": "0.20",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.19.apk",
-  "bytes": 36577308,
-  "sha256": "bc62ee27c7ce9dd243be4994cf5fd9fde3f1c19538ef87e01358022546b66bca",
-  "notes": "MemoReMember의 여행 추가를 + 하나로 모았습니다. 날짜를 두 번 눌러 기간을 정하고, 방문한 곳은 현재 위치를 확인해 날짜와 후기로 남길 수 있습니다. 작품 사진의 연도는 휠로 바꿀 수 있습니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.20.apk",
+  "bytes": 36594608,
+  "sha256": "ff15205d0a649e80ecbdf634e1189c2ccc36f7e396036181fc4fd5551c1d0479",
+  "notes": "두 R이 만나는 새 표지, 남한·제주 지도와 확대 시 여행명, 위아래로 조절하는 목록, 날짜별 여행 달력, 여행·작품 사진 다운로드와 외부 공유, 네이버 장소·리뷰와 길찾기를 추가했습니다."
 }
