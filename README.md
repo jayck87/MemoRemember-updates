@@ -1,6 +1,6 @@
 # MemoReMember Android 업데이트
 
-**0.26 · 2026-11-24** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.26.apk)
+**0.26 · 2026-11-25** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.26.apk)
 
 기존 여행갈피에서 첫 화면의 **설정 → 업데이트 확인**을 누르거나 위 APK를 받아 기존 앱 위에 설치하세요. Android 설치 승인이 필요합니다.
 

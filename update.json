@@ -8,5 +8,5 @@
   "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.26.apk",
   "bytes": 38539719,
   "sha256": "da006a57c8f7895707995cbb378b667f619e5c0c81e80165c28e15e70711b5fa",
-  "notes": "여행 사진에는 Travel, 아이 그림에는 Art를 표시합니다. MemoRy와 ReMember의 R이 만나고, 가운데 RE 왼쪽 위에 Memo, 오른쪽 아래에 Member가 한 줄로 정렬됩니다."
+  "notes": "여행 사진에는 Travel, 아이 그림에는 Art를 표시합니다. MemoRy와 ReMember의 R이 만나고, Memo는 큰 RE의 왼쪽에서 위끝에, Member는 오른쪽에서 아래끝에 맞춰 한 줄로 놓입니다."
 }
