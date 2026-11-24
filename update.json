@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 23,
-  "versionName": "0.23",
+  "versionCode": 24,
+  "versionName": "0.24",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.23.apk",
-  "bytes": 38303490,
-  "sha256": "13fc81804bea3935c9c277bcb0a13a1c63d164075d754e84b52469b3217b2d97",
-  "notes": "지도 상단에서 검색하고 하단 장소 창에서 출발·도착, 여행 등록, 내 후기와 사진을 확인하세요. 여행 달력과 아이 작품 앨범을 사진 중심으로 새로 구성했습니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.24.apk",
+  "bytes": 38537071,
+  "sha256": "efe29aa65a760152dc01c399554abcccf0ac33bb552ae4b4d53dd597edca965d",
+  "notes": "달력을 닫으면 보던 지도로 돌아갑니다. 하단 장소 창을 유지하면서 방문 기록을 접고 펼칠 수 있고, 시작 화면의 여행 사진과 아이 작품 사진을 눌러 각 모드에 들어갑니다."
 }
