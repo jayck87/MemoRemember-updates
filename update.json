@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 22,
-  "versionName": "0.22",
+  "versionCode": 23,
+  "versionName": "0.23",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.22.apk",
-  "bytes": 38268774,
-  "sha256": "ce171bf936d3176c27436e42f2bd05f9794ca46beecec41689723a07bdefe32f",
-  "notes": "앱에서 방문지를 검색·등록하고 두 장소의 자동차 거리와 예상 시간, 지도 경로를 확인하세요. 설정에서 개인 검색·경로 서버를 연결할 수 있습니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.23.apk",
+  "bytes": 38303490,
+  "sha256": "13fc81804bea3935c9c277bcb0a13a1c63d164075d754e84b52469b3217b2d97",
+  "notes": "지도 상단에서 검색하고 하단 장소 창에서 출발·도착, 여행 등록, 내 후기와 사진을 확인하세요. 여행 달력과 아이 작품 앨범을 사진 중심으로 새로 구성했습니다."
 }

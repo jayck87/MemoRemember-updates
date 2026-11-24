@@ -1,8 +1,14 @@
 # MemoReMember Android 업데이트
 
-**0.22 · 2026-11-24** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.22.apk)
+**0.23 · 2026-11-24** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.23.apk)
 
 기존 여행갈피에서 첫 화면의 **설정 → 업데이트 확인**을 누르거나 위 APK를 받아 기존 앱 위에 설치하세요. Android 설치 승인이 필요합니다.
+
+## 0.23에서 달라진 점
+
+- 지도 위 검색창에 장소를 입력하고 하단 결과를 눌러 소개, 내 후기와 내 사진을 확인합니다. 장소 창에서 출발·도착, 전화번호 입력, 여행 등록을 할 수 있습니다. 방문 기록 아이콘을 누르면 지도 범위의 여행 목록이 펼쳐집니다.
+- 검색 결과에서 기존 여행에 장소를 추가하거나 새 여행 계획·다녀온 여행을 시작할 수 있습니다. 사진을 가져오면 기존 분류 규칙에 따라 정리됩니다.
+- 여행 달력에 촬영일별 사진과 날짜별 앨범을 추가하고, 아이 작품은 연도별 모자이크로 보여 줍니다.
 
 ## 0.22에서 달라진 점
 
