@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 24,
-  "versionName": "0.24",
+  "versionCode": 25,
+  "versionName": "0.25",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.24.apk",
-  "bytes": 38537071,
-  "sha256": "efe29aa65a760152dc01c399554abcccf0ac33bb552ae4b4d53dd597edca965d",
-  "notes": "달력을 닫으면 보던 지도로 돌아갑니다. 하단 장소 창을 유지하면서 방문 기록을 접고 펼칠 수 있고, 시작 화면의 여행 사진과 아이 작품 사진을 눌러 각 모드에 들어갑니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.25.apk",
+  "bytes": 38537331,
+  "sha256": "d859d0dd659c126e66cd42fc25d199dc2a6183f8dd51303a25e2647fff5d48d7",
+  "notes": "시작 화면의 Memo, RE, Member가 처음부터 선명하게 보이도록 표지 글자를 개선했습니다."
 }
