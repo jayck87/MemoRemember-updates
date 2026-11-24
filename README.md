@@ -1,8 +1,13 @@
 # MemoReMember Android 업데이트
 
-**0.23 · 2026-11-24** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.23.apk)
+**0.24 · 2026-11-24** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.24.apk)
 
 기존 여행갈피에서 첫 화면의 **설정 → 업데이트 확인**을 누르거나 위 APK를 받아 기존 앱 위에 설치하세요. Android 설치 승인이 필요합니다.
+
+## 0.24에서 달라진 점
+
+- 지도에서 달력을 닫으면 보던 위치와 확대 배율로 돌아갑니다. 방문 기록은 장소 창을 열어 둔 채 따로 펼치고 접을 수 있습니다.
+- 시작 화면의 왼쪽 여행 사진은 여행 기록을, 오른쪽 그림은 아이 작품을 엽니다. 중앙에는 두 앨범이 함께 쓰는 RE를 배치했습니다.
 
 ## 0.23에서 달라진 점
 
