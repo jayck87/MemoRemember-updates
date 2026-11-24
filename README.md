@@ -1,8 +1,12 @@
 # MemoReMember Android 업데이트
 
-**0.26 · 2026-11-25** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.26.apk)
+**0.27 · 2026-11-25** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.27.apk)
 
 기존 여행갈피에서 첫 화면의 **설정 → 업데이트 확인**을 누르거나 위 APK를 받아 기존 앱 위에 설치하세요. Android 설치 승인이 필요합니다.
+
+## 0.27에서 달라진 점
+
+- 표지를 열면 Travel과 Art 사진이 집게 아래에서 살짝 흔들립니다. 중앙의 RE와 작은 이탤릭 글씨 Memo·Member는 처음부터 고정되어 있습니다.
 
 ## 0.26에서 달라진 점
 

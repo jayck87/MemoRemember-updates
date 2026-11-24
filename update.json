@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 26,
-  "versionName": "0.26",
+  "versionCode": 27,
+  "versionName": "0.27",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.26.apk",
-  "bytes": 38539719,
-  "sha256": "da006a57c8f7895707995cbb378b667f619e5c0c81e80165c28e15e70711b5fa",
-  "notes": "여행 사진에는 Travel, 아이 그림에는 Art를 표시합니다. MemoRy와 ReMember의 R이 만나고, Memo는 큰 RE의 왼쪽에서 위끝에, Member는 오른쪽에서 아래끝에 맞춰 한 줄로 놓입니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.27.apk",
+  "bytes": 38606245,
+  "sha256": "8a51ebceb699e360b29f275b014a9fe9e51387ba2e6329d1c99d49d9632229d5",
+  "notes": "표지를 열면 Travel과 Art 사진이 집게 아래에서 살짝 흔들립니다. 중앙의 RE와 작은 이탤릭 글씨 Memo·Member는 처음부터 고정되어 있습니다."
 }
