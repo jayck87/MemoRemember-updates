@@ -1,8 +1,14 @@
 # MemoReMember Android 업데이트
 
-**0.21 · 2026-11-20** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.21.apk)
+**0.22 · 2026-11-24** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.22.apk)
 
 기존 여행갈피에서 첫 화면의 **설정 → 업데이트 확인**을 누르거나 위 APK를 받아 기존 앱 위에 설치하세요. Android 설치 승인이 필요합니다.
+
+## 0.22에서 달라진 점
+
+- 여행 지도와 방문지 입력 화면에서 장소를 검색하고 지도에서 확인한 뒤 여행에 등록할 수 있습니다.
+- 출발지와 도착지를 고르면 자동차 도로 거리와 예상 소요 시간이 표시됩니다. **지도에서 경로 보기**로 이동 경로를 확인하세요.
+- 네이버 지역 검색과 Directions 5는 **설정 → 장소 검색·길찾기 연결**에 개인 서버 주소와 가족용 연결 코드를 등록한 뒤 사용할 수 있습니다.
 
 ## 0.21에서 달라진 점
 

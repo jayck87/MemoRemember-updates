@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 21,
-  "versionName": "0.21",
+  "versionCode": 22,
+  "versionName": "0.22",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.21.apk",
-  "bytes": 38245342,
-  "sha256": "fce761a9d254ff10e10dc31cb60da22a45b88b889ae5a4a1b6204d80ec498557",
-  "notes": "네이버 지도, 방문지 공유·등록과 구간별 길찾기, 이동 가능한 여행 목록과 확대 단계 바, 작품 좌우 넘기기와 블러 뷰어, 4.2초 표지 애니메이션을 추가했습니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.22.apk",
+  "bytes": 38268774,
+  "sha256": "ce171bf936d3176c27436e42f2bd05f9794ca46beecec41689723a07bdefe32f",
+  "notes": "앱에서 방문지를 검색·등록하고 두 장소의 자동차 거리와 예상 시간, 지도 경로를 확인하세요. 설정에서 개인 검색·경로 서버를 연결할 수 있습니다."
 }
