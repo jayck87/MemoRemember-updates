@@ -1,8 +1,13 @@
 # MemoReMember Android 업데이트
 
-**0.25 · 2026-11-24** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.25.apk)
+**0.26 · 2026-11-24** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.26.apk)
 
 기존 여행갈피에서 첫 화면의 **설정 → 업데이트 확인**을 누르거나 위 APK를 받아 기존 앱 위에 설치하세요. Android 설치 승인이 필요합니다.
+
+## 0.26에서 달라진 점
+
+- 왼쪽 여행 사진에는 Travel, 오른쪽 아이 그림에는 Art가 표시됩니다. 사진을 누르면 해당 앨범이 열립니다.
+- 앱을 처음 열면 MemoRy와 ReMember의 R이 만나 큰 RE가 됩니다. Memo와 Member는 RE 양옆에 한 줄로 놓이며 각각 글자 위끝과 아래끝에 맞춰집니다.
 
 ## 0.25에서 달라진 점
 
