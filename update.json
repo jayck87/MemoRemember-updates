@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 31,
-  "versionName": "0.31",
+  "versionCode": 32,
+  "versionName": "0.32",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.31.apk",
-  "bytes": 38661762,
-  "sha256": "0bc695b818faf9fe7d3d20b4132989a91e99cf8544a3d8f7b72ae378a419080b",
-  "notes": "장소 카드를 간소화하고 네이버 지점 검색어를 상호명으로 수정했습니다. 축소 지도에도 여행 핀이 표시되며, 작품 보관함을 연도별 사진 앨범으로 개편했습니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.32.apk",
+  "bytes": 38662722,
+  "sha256": "de5541269c7b03ebf0d6c0b3a4b1a9a57a724a6a8cbdad99d63213f7661c0ee8",
+  "notes": "공식 지점 링크가 있으면 네이버 원문의 리뷰·사진과 음식점 메뉴를 지도 위에서 바로 엽니다. 아이의 작품 앨범 제목을 우리 아이 작품 기록으로 바꿨습니다."
 }
