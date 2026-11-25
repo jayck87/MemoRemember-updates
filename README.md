@@ -1,8 +1,12 @@
 # MemoReMember Android 업데이트
 
-**0.32 · 2026-11-25** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.32.apk)
+**0.33 · 2026-11-26** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.33.apk)
 
 기존 여행갈피에서 첫 화면의 **설정 → 업데이트 확인**을 누르거나 위 APK를 받아 기존 앱 위에 설치하세요. Android 설치 승인이 필요합니다.
+
+## 0.33에서 달라진 점
+
+- 네이버 지점 링크가 없을 때 검색한 이름 대신 선택한 좌표로 지도 핀을 엽니다. 같은 이름의 다른 지점으로 이동하는 문제를 수정했습니다.
 
 ## 0.32에서 달라진 점
 
