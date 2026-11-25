@@ -1,8 +1,12 @@
 # MemoReMember Android 업데이트
 
-**0.29 · 2026-11-25** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.29.apk)
+**0.30 · 2026-11-25** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.30.apk)
 
 기존 여행갈피에서 첫 화면의 **설정 → 업데이트 확인**을 누르거나 위 APK를 받아 기존 앱 위에 설치하세요. Android 설치 승인이 필요합니다.
+
+## 0.30에서 달라진 점
+
+- 지도 장소 카드에서 네이버 원문 리뷰를 열고 같은 지도로 돌아올 수 있습니다. 지점 링크가 없으면 상호와 주소로 지점을 찾습니다.
 
 ## 0.29에서 달라진 점
 
