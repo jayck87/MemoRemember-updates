@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 30,
-  "versionName": "0.30",
+  "versionCode": 31,
+  "versionName": "0.31",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.30.apk",
-  "bytes": 38665546,
-  "sha256": "6c7bfb684ab3251b5b30eb3574eada504c40b9ede0bdfeede72586854c5eda46",
-  "notes": "지도 장소 카드에서 네이버 원문 리뷰를 열고 같은 지도로 돌아올 수 있습니다. 지점 링크가 없으면 상호와 주소로 지점을 찾습니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.31.apk",
+  "bytes": 38661762,
+  "sha256": "0bc695b818faf9fe7d3d20b4132989a91e99cf8544a3d8f7b72ae378a419080b",
+  "notes": "장소 카드를 간소화하고 네이버 지점 검색어를 상호명으로 수정했습니다. 축소 지도에도 여행 핀이 표시되며, 작품 보관함을 연도별 사진 앨범으로 개편했습니다."
 }
