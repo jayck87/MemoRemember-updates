@@ -2,11 +2,11 @@
   "format": "travelgalpi-update",
   "schemaVersion": 1,
   "packageName": "kr.travelgalpi.probe",
-  "versionCode": 33,
-  "versionName": "0.33",
+  "versionCode": 34,
+  "versionName": "0.34",
   "minSdk": 29,
-  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.33.apk",
-  "bytes": 38663474,
-  "sha256": "dd61cbe97227b2e7142027b70e12e21d136573d9cf334cf78823921fd4875acd",
-  "notes": "네이버 지점 링크가 없을 때 검색한 이름 대신 선택한 좌표로 지도 핀을 엽니다. 같은 이름의 다른 지점으로 이동하는 문제를 수정했습니다."
+  "apkUrl": "https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.34.apk",
+  "bytes": 38724222,
+  "sha256": "1948c95da0df41b0286cec1021c6d9c71d8d182248718b56b9e4c0e442ec310f",
+  "notes": "지도에서 내 위치를 확인하고, 현재 지역의 장소를 먼저 검색할 수 있습니다. 지도를 이동한 뒤 현 지도에서 검색하면 화면 안의 결과만 표시합니다. 표지 사진의 흔들림도 조금 키웠습니다."
 }

@@ -1,8 +1,12 @@
 # MemoReMember Android 업데이트
 
-**0.33 · 2026-11-26** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.33.apk)
+**0.34 · 2026-11-26** · [최신 APK 다운로드](https://raw.githubusercontent.com/jayck87/MemoRemember-updates/main/TravelGalpi-0.34.apk)
 
 기존 여행갈피에서 첫 화면의 **설정 → 업데이트 확인**을 누르거나 위 APK를 받아 기존 앱 위에 설치하세요. Android 설치 승인이 필요합니다.
+
+## 0.34에서 달라진 점
+
+- 지도에서 내 위치를 확인하고, 현재 지역의 장소를 먼저 검색할 수 있습니다. 지도를 이동한 뒤 현 지도에서 검색하면 화면 안의 결과만 표시합니다. 표지 사진의 흔들림도 조금 키웠습니다.
 
 ## 0.33에서 달라진 점
 
